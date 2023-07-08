@@ -4,7 +4,7 @@ Ini adalah website portofolio pertama saya, yang berisi tentang apa yang telah s
 Website masih dalam tahap pengembangan kedepanya semoga bisa lebih baik lagi.
 
 This site can be visited via the following link <br>
-[yulidarmaulana]([https://yulidar.netlify.app/](https://yulidarmaulana.vercel.app/)). <br>
+([yulidarmaulana.vercel.app](https://yulidarmaulana.vercel.app/)). <br>
 [yulidarmaulana.github.io](yulidarmaulana.github.io).
 
 This site was built using <br> 
